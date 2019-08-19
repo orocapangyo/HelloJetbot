@@ -1,0 +1,14 @@
+CMakeCache.txt
+CMakeFiles/
+Makefile
+build/
+cmake_install.cmake
+dist/
+jetbot.egg-info/
+jetbot/CMakeFiles/
+jetbot/Makefile
+jetbot/cmake_install.cmake
+jetbot/ssd_tensorrt/CMakeFiles/
+jetbot/ssd_tensorrt/Makefile
+jetbot/ssd_tensorrt/cmake_install.cmake
+jetbot/ssd_tensorrt/libssd_tensorrt.so
